@@ -1,0 +1,11 @@
+DRINK,Cola,112,false
+DRINK,Water,150,false
+DRINK,Beer,400,true
+DRINK,OrangeJuice,200,false
+SIDE,Chips,300,no sauce
+SIDE,Chips,300,tomato sauce
+SIDE,Salad,250,no sauce
+SIDE,Salad,250,dressing
+SANDWICH,BLT-W,450,WHITE,Bacon+Lettuce+Tomato
+SANDWICH,Club,650,WHOLEMEAL,Chicken+Bacon+Lettuce+Egg
+SANDWICH,Tuna,400,WHITE,Tuna+Sweetcorn

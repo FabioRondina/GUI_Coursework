@@ -1,0 +1,52 @@
+Include your Statement of Compliance here:
+
+Name: Fabio Rondina
+Student number: 1707082
+
+Requirement and Outcome
+
+An initial menu can be populated using the function embedded in the Menu class
+2 different kind of Menu text file are saved in the source folder as the images for the Menu Item
+
+1  Main Window Contents
+   Fully implemented, working and tested.
+2  Closing the System
+    Fully implemented, working and tested.
+     implemented in menu bar , key shortcut and additional close button on the JFrame
+3  Food and Drink Item Menu
+    Fully implemented, working and tested. 
+    created a unique MainMenu object
+4  Customer Order Details
+    Fully implemented, working and tested. 
+    create a JDialog to ask for customer name for the new Order
+5  Adding new Sandwich items to the main Menu
+    Fully implemented, working and tested. 
+6  Adding new Side items to the main Menu
+    Fully implemented, working and tested.
+7  Adding new Drink items to the main Menu
+    Fully implemented, working and tested.
+8  Saving the main Food and Drink Menu to a text File 
+    Fully implemented, working and tested.
+9  Loading the main Food and Drink Menu to a text File
+    Fully implemented, working and tested.
+    Loaded Txt file will replace actual mainMenu file
+10 Starting a new customer order
+   Fully implemented, working and tested.
+11 Displaying customer order details
+    Fully implemented, working and tested.
+12 Adding Items to the Customer Order
+    Fully implemented, working and tested.
+13 Images of the Menu Items
+    Fully implemented, working and tested. 
+    Image can be added at creation of the new Menu Item. 
+    Image is showed each time we select an item from the comboboxes
+    In addition a label identifies the Item showed on the Label
+14 Sortable Food and Drink Menu(s)
+    Fully implemented, working and tested. 
+    Sort and update the array of the comboboxes
+15 Changing Bread Type for a Sandwich in the Customer Order
+    Fully implemented, working and tested. 
+    Implemented directly in the Add button related to Sandwich
+16 Add/Change sauce for a Side in the Customer Order. Sort and update the array of the comboboxes
+    Fully implemented, working and tested. 
+    Implemented directly in the Add button related to Side, ask to remove, substitute sauce to actual or add to actual

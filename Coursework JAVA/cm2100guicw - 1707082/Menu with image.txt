@@ -1,0 +1,11 @@
+DRINK,Cola,112,false,coke.jpg
+DRINK,Water,150,false,water.jpg
+DRINK,Beer,400,true,beer.jpg
+DRINK,OrangeJuice,200,false,oj.jpg
+SIDE,Chips,300,no sauce,chips.jpg
+SIDE,Chips,300,tomato sauce,chips.jpg
+SIDE,Salad,250,no sauce,salad.jpg
+SIDE,Salad,250,dressing,salad.jpg
+SANDWICH,BLT-W,450,WHITE,Bacon+Lettuce+Tomato,BLT.jpg
+SANDWICH,Club,650,WHOLEMEAL,Chicken+Bacon+Lettuce+Egg,club.jpg
+SANDWICH,Tuna,400,WHITE,Tuna+Sweetcorn,tuna.jpg
